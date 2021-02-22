@@ -9,7 +9,7 @@ identidock:
     - redis
 
 dnmonster:
-  image: mell84/dnmonster:latest
+  image: amouat/dnmonster:1.0
 
 redis:
   image: redis:3.0
